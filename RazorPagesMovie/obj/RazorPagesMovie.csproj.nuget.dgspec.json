@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Documents\\BYU School Document\\Winter 2020\\.NET Software Development\\Weeks\\Week6\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
+    "C:\\Users\\USER\\Documents\\BYU School Document\\Winter 2020\\.NET Software Development\\CIT365\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Documents\\BYU School Document\\Winter 2020\\.NET Software Development\\Weeks\\Week6\\RazorPagesMovie\\RazorPagesMovie.csproj": {
+    "C:\\Users\\USER\\Documents\\BYU School Document\\Winter 2020\\.NET Software Development\\CIT365\\RazorPagesMovie\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Documents\\BYU School Document\\Winter 2020\\.NET Software Development\\Weeks\\Week6\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\BYU School Document\\Winter 2020\\.NET Software Development\\CIT365\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "C:\\Users\\USER\\Documents\\BYU School Document\\Winter 2020\\.NET Software Development\\Weeks\\Week6\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectPath": "C:\\Users\\USER\\Documents\\BYU School Document\\Winter 2020\\.NET Software Development\\CIT365\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Documents\\BYU School Document\\Winter 2020\\.NET Software Development\\Weeks\\Week6\\RazorPagesMovie\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\BYU School Document\\Winter 2020\\.NET Software Development\\CIT365\\RazorPagesMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

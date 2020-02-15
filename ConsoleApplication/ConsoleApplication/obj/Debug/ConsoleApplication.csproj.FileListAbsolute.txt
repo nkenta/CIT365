@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week1\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week1\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week1\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week1\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csprojAssemblyReference.cache
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week1\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week1\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

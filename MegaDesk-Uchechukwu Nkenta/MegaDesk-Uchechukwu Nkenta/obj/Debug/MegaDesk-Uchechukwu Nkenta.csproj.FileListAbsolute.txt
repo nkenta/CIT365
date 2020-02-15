@@ -1,0 +1,12 @@
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week3\MegaDesk-Uchechukwu Nkenta\MegaDesk-Uchechukwu Nkenta\bin\Debug\MegaDesk-Uchechukwu Nkenta.exe.config
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week3\MegaDesk-Uchechukwu Nkenta\MegaDesk-Uchechukwu Nkenta\bin\Debug\MegaDesk-Uchechukwu Nkenta.exe
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week3\MegaDesk-Uchechukwu Nkenta\MegaDesk-Uchechukwu Nkenta\bin\Debug\MegaDesk-Uchechukwu Nkenta.pdb
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week3\MegaDesk-Uchechukwu Nkenta\MegaDesk-Uchechukwu Nkenta\obj\Debug\MegaDesk_Uchechukwu_Nkenta.AddQuote.resources
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week3\MegaDesk-Uchechukwu Nkenta\MegaDesk-Uchechukwu Nkenta\obj\Debug\MegaDesk_Uchechukwu_Nkenta.displayQuote.resources
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week3\MegaDesk-Uchechukwu Nkenta\MegaDesk-Uchechukwu Nkenta\obj\Debug\MegaDesk_Uchechukwu_Nkenta.MainMenu.resources
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week3\MegaDesk-Uchechukwu Nkenta\MegaDesk-Uchechukwu Nkenta\obj\Debug\MegaDesk_Uchechukwu_Nkenta.Properties.Resources.resources
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week3\MegaDesk-Uchechukwu Nkenta\MegaDesk-Uchechukwu Nkenta\obj\Debug\MegaDesk_Uchechukwu_Nkenta.SearchQuotes.resources
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week3\MegaDesk-Uchechukwu Nkenta\MegaDesk-Uchechukwu Nkenta\obj\Debug\MegaDesk_Uchechukwu_Nkenta.ViewAllQuotes.resources
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week3\MegaDesk-Uchechukwu Nkenta\MegaDesk-Uchechukwu Nkenta\obj\Debug\MegaDesk-Uchechukwu Nkenta.csproj.GenerateResource.cache
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week3\MegaDesk-Uchechukwu Nkenta\MegaDesk-Uchechukwu Nkenta\obj\Debug\MegaDesk-Uchechukwu Nkenta.exe
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week3\MegaDesk-Uchechukwu Nkenta\MegaDesk-Uchechukwu Nkenta\obj\Debug\MegaDesk-Uchechukwu Nkenta.pdb

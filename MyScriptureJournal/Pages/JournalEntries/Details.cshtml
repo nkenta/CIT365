@@ -1,0 +1,43 @@
+﻿@page
+@model MyScriptureJournal.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Journal Entry</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.JournalEntry.FavoriteScripture)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.JournalEntry.FavoriteScripture)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.JournalEntry.ImpressionNote)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.JournalEntry.ImpressionNote)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.JournalEntry.Book)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.JournalEntry.Book)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.JournalEntry.DateAdded)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.JournalEntry.DateAdded)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.JournalEntry.ID" class="btn btn-warning">Edit</a> |
+    <a asp-page="./Index" class="btn btn-info">Back to List</a>
+</div>

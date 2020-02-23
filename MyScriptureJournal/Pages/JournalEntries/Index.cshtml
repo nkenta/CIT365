@@ -1,0 +1,78 @@
+﻿@page
+@model MyScriptureJournal.IndexModel
+
+@{
+    ViewData["Title"] = "Journal Entries";
+}
+
+<h1>Welcome</h1>
+
+<span><a asp-page="Create" class="btn btn-primary">Create New</a></span> |
+<span><a asp-page="./Index" class="btn btn-secondary">All Saved Note</a></span>
+
+<form asp-page="./Index" method="get">
+    <div>
+        <span>
+            <label for="searchBook">Search By Book:</label>
+            <input type="text" name="searchBook" value="@Model.SearchBook" />
+        </span>
+        <span>
+            <label for="searchKeyword">Search By Note:</label>
+            <input type="text" name="searchNote" value="@Model.SearchNote" />
+        </span>
+        <span>
+            <button type="submit" class="btn btn-success">Search</button>
+        </span>
+    </div>
+</form>
+<hr />
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.JournalEntry[0].FavoriteScripture)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.JournalEntry[0].ImpressionNote)
+            </th>
+            <th>
+                <a asp-page="./Index" asp-route-sortOrder="@Model.SortByBook"
+                   asp-route-currentBookFilter="@Model.SearchBook"
+                   asp-route-currentKeywordFilter="@Model.SearchNote">
+                    @Html.DisplayNameFor(model => model.JournalEntry[0].Book)
+                    </a>
+            </th>
+            <th><a asp-page="./Index" asp-route-sortOrder="@Model.SortByDate"
+   asp-route-currentBookFilter="@Model.SearchBook"
+   asp-route-currentKeywordFilter="@Model.SearchNote">
+    @Html.DisplayNameFor(model => model.JournalEntry[0].DateAdded)
+                </a>
+</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.JournalEntry)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FavoriteScripture)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ImpressionNote)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Book)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DateAdded)
+                </td>
+                <td class="btn-group-vertical">
+                    <a asp-page="./Edit" asp-route-id="@item.ID" class="btn btn-warning">Edit</a>
+                    <a asp-page="./Details" asp-route-id="@item.ID" class="btn btn-info">Details</a>
+                    <a asp-page="./Delete" asp-route-id="@item.ID" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

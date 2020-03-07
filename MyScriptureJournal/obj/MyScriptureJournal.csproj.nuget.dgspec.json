@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Documents\\BYU School Document\\Winter 2020\\.NET Software Development\\Weeks\\Week7\\MyScriptureJournal\\MyScriptureJournal.csproj": {}
+    "C:\\Users\\USER\\Documents\\BYU School Document\\Winter 2020\\.NET Software Development\\CIT365\\MyScriptureJournal\\MyScriptureJournal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Documents\\BYU School Document\\Winter 2020\\.NET Software Development\\Weeks\\Week7\\MyScriptureJournal\\MyScriptureJournal.csproj": {
+    "C:\\Users\\USER\\Documents\\BYU School Document\\Winter 2020\\.NET Software Development\\CIT365\\MyScriptureJournal\\MyScriptureJournal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Documents\\BYU School Document\\Winter 2020\\.NET Software Development\\Weeks\\Week7\\MyScriptureJournal\\MyScriptureJournal.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\BYU School Document\\Winter 2020\\.NET Software Development\\CIT365\\MyScriptureJournal\\MyScriptureJournal.csproj",
         "projectName": "MyScriptureJournal",
-        "projectPath": "C:\\Users\\USER\\Documents\\BYU School Document\\Winter 2020\\.NET Software Development\\Weeks\\Week7\\MyScriptureJournal\\MyScriptureJournal.csproj",
+        "projectPath": "C:\\Users\\USER\\Documents\\BYU School Document\\Winter 2020\\.NET Software Development\\CIT365\\MyScriptureJournal\\MyScriptureJournal.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Documents\\BYU School Document\\Winter 2020\\.NET Software Development\\Weeks\\Week7\\MyScriptureJournal\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\BYU School Document\\Winter 2020\\.NET Software Development\\CIT365\\MyScriptureJournal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

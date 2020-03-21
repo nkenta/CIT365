@@ -1,0 +1,16 @@
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week11\BooksApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week11\BooksApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week11\BooksApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week11\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.deps.json
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week11\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.runtimeconfig.json
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week11\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.runtimeconfig.dev.json
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week11\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.dll
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week11\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.csprojAssemblyReference.cache
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week11\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.RazorAssemblyInfo.cache
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week11\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.RazorAssemblyInfo.cs
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week11\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week11\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.AssemblyInfo.cs
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week11\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.RazorTargetAssemblyInfo.cache
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week11\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.pdb
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week11\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.dll
+C:\Users\USER\Documents\BYU School Document\Winter 2020\.NET Software Development\Weeks\Week11\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.pdb
